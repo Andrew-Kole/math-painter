@@ -1,3 +1,5 @@
 venv/
 .idea/
 files/
+array_to_numpy.py
+output/
